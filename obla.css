@@ -1,0 +1,73 @@
+h2 {
+	color: rgba(0, 0, 0, 0.61);
+	background-color:#9bdec1;
+}
+h1 {
+	color:white;
+	background-color: rgba(0, 0, 0, 0.589);
+	text-align:center;
+}
+ul.TopNav   
+{
+	padding: 4px 4px;
+    margin: auto; 
+	background-color:  rgba(0, 0, 0, 0.589);
+}
+ul.TopNav li 
+{
+	display: inline-block;   
+	width: 125px;
+	text-align: center;
+}
+ul.TopNav li a 
+{
+	text-decoration: none;    
+    display:block;
+    margin: 6px 6px;
+    background-color: rgba(0, 0, 0, 0.589);
+    padding: 4px;
+    border-width:4px;
+    border-style:solid;
+    color:#d4ffec;
+    /*Top - Right - Botom - Left*/
+    border-color: #dcfcee #93c2ae #dcfcee #93c2ae  ;   
+}
+ul.TopNav li a:hover /* pele iebrauc */
+{
+	color:black; 
+	background-color:#62fcba;
+	letter-spacing: 1px;
+}
+ul.TopNav li a:active /* Click */
+{
+	border-color: white;   
+}
+td.Text{
+	background-color:#9bdec1;
+	border-color:  rgba(0, 0, 0, 0.589);
+	border-width: 2px;
+	border-style: groove;
+	width: 600px;
+}
+td.Pict{
+	width: 300px;
+	background-color:  rgba(0, 0, 0, 0.589);
+}
+td {
+	background-color: rgba(0, 0, 0, 0.589);
+}
+
+div {
+	background-color:#CCFFF3;
+}
+.all{
+	height: 100%;
+}
+p {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.589);
+	width:5%;
+}
+.a {
+	background-color: black;
+}

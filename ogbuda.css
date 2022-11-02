@@ -1,0 +1,73 @@
+h2.og {
+	color: white;
+	background-color:#8c55cf ;
+}
+h1.og {
+	color: black;
+	background-color:  #bc97e9;
+	text-align:center;
+}
+ul.TopNav  
+{
+	padding: 4px 4px;
+    margin: auto; 
+	background-color:  #bc97e9;
+}
+ul.TopNav li 
+{
+	display: inline-block;   
+	width: 125px;
+	text-align: center;
+}
+ul.TopNav li a 
+{
+	text-decoration: none;    
+    display:block;
+    margin: 6px 6px;
+    background-color: black;
+    padding: 4px;
+    border-width:4px;
+    border-style:solid;
+	color: white;
+    /*Top - Right - Botom - Left*/
+    border-color: #aa6af7 #6e479e #aa6af7 #6e479e  ;   
+}
+ul.TopNav li a:hover /* pele iebrauc */
+{
+	color:rgba(248, 53, 248, 0.808); 
+	background-color: white;
+	letter-spacing: 1px;
+}
+ul.TopNav li a:active /* Click */
+{
+	border-color: black;   
+}
+td.Textog{
+	background-color:#8c55cf;
+	border-color:  #bc97e9;
+	border-width: 2px;
+	border-style: groove;
+	width: 600px;
+}
+td.Pictog{
+	width: 300px;
+	background-color:  #bc97e9;
+}
+td.og {
+	background-color: #bc97e9;
+}
+div {
+	background-color:grey;
+}
+
+.all{
+	height: 100%;
+}
+p {
+	color: white;
+	background-color: black;
+	width:5%;
+}
+.a {
+	background-color: black;
+}

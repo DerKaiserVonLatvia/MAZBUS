@@ -1,0 +1,76 @@
+
+
+h1 {
+	color: black;
+	text-align:center;
+}
+h2 {
+	color: black;
+	text-align:center;
+
+}
+
+.F {
+	background-color: rgba(0, 0, 0, 0.308);
+}
+
+td {
+	border-color: white;
+	border-width: 2px;
+	border-style: groove;
+	background-color: rgba(0, 0, 0, 0.308);
+}
+
+
+
+ul.TopNav   
+{
+	padding: 4px 4px;
+    margin: auto; 
+}
+ul.TopNav li 
+{
+	display: inline-block;   
+	width: 125px;
+	text-align: center;
+}
+ul.TopNav li a
+{
+	text-decoration: none;    
+    display:block;
+    margin: 6px 6px;
+    background-color: #68cae3;
+    padding: 4px;
+    border-width:4px;
+    border-style:solid;
+	color:rgba(10, 14, 252, 0.993);
+    /*Top - Right - Botom - Left*/
+    border-color: #438291 #438291 #386d7a #386d7a ;   
+}
+ul.TopNav li a:hover /* pele iebrauc */
+{
+	color:Black; 
+	background-color: white;
+	letter-spacing: 1px;
+}
+ul.TopNav li a:active /* Click */
+{
+	border-color: black;   
+}
+
+
+td.Pict{
+	width: 300px;
+}
+td.Text{
+	background-color:rgba(0, 0, 0, 0.308);
+	width: 600px;
+	color: white;
+}
+div{
+	background: url(baack.gif) no-repeat center center fixed; 
+	background-size: cover;
+}
+.all{
+	height: 100%;
+}

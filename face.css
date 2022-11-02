@@ -1,0 +1,70 @@
+h2 {
+	color: black;
+	background-color:#4fbce3 ;
+}
+h1 {
+	color: rgba(136, 23, 136, 0.815);
+	background-color:  rgba(168, 234, 252, 0.637);
+	text-align:center;
+}
+ul.TopNav   
+{
+	padding: 4px 4px;
+    margin: auto; 
+	background-color:  rgba(168, 234, 252, 0.637);
+}
+ul.TopNav li 
+{
+	display: inline-block;   
+	width: 125px;
+	text-align: center;
+}
+ul.TopNav li a 
+{
+	text-decoration: none;    
+    display:block;
+    margin: 6px 6px;
+    background-color: white;
+    padding: 4px;
+    border-width:4px;
+    border-style:solid;
+    color:black;
+    /*Top - Right - Botom - Left*/
+    border-color:  rgba(136, 23, 136, 0.678) rgba(58, 11, 58, 0.678) rgba(136, 23, 136, 0.678) rgba(58, 11, 58, 0.678)  ;   
+}
+ul.TopNav li a:hover /* pele iebrauc */
+{
+	color:rgba(182, 129, 250, 0.979); 
+	background-color: purple;
+	letter-spacing: 1px;
+}
+ul.TopNav li a:active /* Click */
+{
+	border-color: white;   
+}
+td.Text{
+	background-color:#4fbce3 ;
+	border-color:  rgba(168, 234, 252, 0.637);
+	border-width: 2px;
+	border-style: groove;
+	width: 600px;
+}
+td.Pict{
+	width: 300px;
+	background-color:  rgba(168, 234, 252, 0.637);
+}
+td {
+	background-color: rgba(168, 234, 252, 0.637);
+}
+
+div {
+	background-color:#735184;
+}
+.all{
+	height: 100%;
+}
+p {
+	color: white;
+	background-color: #4fbce3;
+	width:5%;
+}

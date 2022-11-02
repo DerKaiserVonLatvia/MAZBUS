@@ -1,0 +1,74 @@
+h2 {
+	color: white;
+	background-color:#212121 ;
+}
+h1 {
+	color: white;
+	background-color:  rgba(218, 168, 42, 0.747);
+	text-align:center;
+}
+ul.TopNav   
+{
+	padding: 4px 4px;
+    margin: auto; 
+	background-color:  rgba(218, 168, 42, 0.747);
+}
+ul.TopNav li 
+{
+	display: inline-block;   
+	width: 125px;
+	text-align: center;
+}
+ul.TopNav li a 
+{
+	text-decoration: none;    
+    display:block;
+    margin: 6px 6px;
+    background-color: black;
+    padding: 4px;
+    border-width:4px;
+    border-style:solid;
+    color:rgba(255, 166, 0, 0.973);
+    /*Top - Right - Botom - Left*/
+    border-color: rgba(105, 105, 105, 0.466) rgba(88, 88, 88, 0.863) rgba(105, 105, 105, 0.466) rgba(88, 88, 88, 0.863)   ;   
+}
+ul.TopNav li a:hover /* pele iebrauc */
+{
+	color:black; 
+	background-color: white;
+	letter-spacing: 1px;
+}
+ul.TopNav li a:active /* Click */
+{
+	border-color: white;   
+}
+td.Text{
+	background-color:#212121;
+	border-color:  rgba(218, 168, 42, 0.747);
+	border-width: 2px;
+	border-style: groove;
+	color:#f1f1f1e1;
+	width: 600px;
+}
+td.Pict{
+	width: 300px;
+	background-color:  rgba(218, 168, 42, 0.747);
+}
+td {
+	background-color: rgba(218, 168, 42, 0.747);
+}
+
+div {
+	background-color:#4E4C46;
+}
+.all{
+	height: 100%;
+}
+p {
+	color: white;
+	background-color: rgba(218, 168, 42, 0.747);
+	width:5%;
+}
+.a {
+	background-color: black;
+}
